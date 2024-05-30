@@ -66,4 +66,7 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+
+    // freeRASP SDK
+    implementation("com.aheaditec.talsec.security:TalsecSecurity-Community:9.1.0")
 }
