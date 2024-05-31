@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Trying freeRASP</string>
+    <!--can add other warnings-->
+    <string name="dummy_warning">Warning: Currently no warning.</string>
+    <string name="unauthorized_source">Warning: This app was not installed from official source (Google Play Store). It may have been tampered with by attackers. We strongly recommend uninstalling it immediately for your security.</string>
 </resources>
